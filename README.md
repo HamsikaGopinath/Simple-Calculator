@@ -26,8 +26,8 @@ addition, subtraction, multiplication, division and square root.
 
 ## 📷 Sample Output
 The calculator displays the result instantly after selecting the operation.
-![alt text](image-1.png)
-![alt text](image.png)
+![alt text]("C:\Users\DELL\Desktop\output1.jpeg")
+![alt text]("C:\Users\DELL\Desktop\ouput2.jpeg")
 
 ## 👨‍💻 Developed By
 Hamsika Gopinath M G
